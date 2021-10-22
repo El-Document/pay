@@ -1,0 +1,81 @@
+body {
+  background-color: #f6f6f6;
+}
+
+header {
+  background-color: #02846f;
+  height: 80px;
+  margin: -10px;
+}
+
+main {
+  margin-top: -16px;
+  max-width: 1040px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.main {
+  display: flex;
+}
+
+.pay {
+  background-color: white;
+  padding-top: 10px;
+}
+.left {
+  width: 68.1%;
+}
+
+.title {
+  text-align: center;
+  width: 68.1%;
+  font-weight: bold;
+  font-size: 30px;
+  color: #02846f;
+}
+.price {
+  padding: 10px 20px;
+  margin: 0px 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f6f6f6;
+}
+.mail {
+  text-align: center;
+  font-weight: bold;
+}
+
+.chek {
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+  color: #02846f;
+  border: 2px solid #02846f;
+  padding: 10px 20px;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
+
+.inputCont {
+  text-align: center;
+}
+.pricePdv {
+  padding: 10px 20px;
+  margin: 0px 10px 10px;
+  display: flex;
+  justify-content: space-between;
+  border: 3px solid #f6f6f6;
+}
+.img {
+  margin-left: 10px;
+  background-color: white;
+}
+
+.pdf {
+  font-size: 15px;
+  color: gray;
+}
